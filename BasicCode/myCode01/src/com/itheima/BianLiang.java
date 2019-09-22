@@ -27,5 +27,7 @@ public class BianLiang {
         //定义一个变量
         int num9 = 10;
         System.out.println(num9);
+        int num10 = 10;
+        System.out.println(num10);
     }
 }
